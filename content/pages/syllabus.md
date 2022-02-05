@@ -28,50 +28,418 @@ Readings are in the _Norton Anthology_, unless otherwise noted.
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| {{< td-colspan 3 >}}**Origins**{{< /td-colspan >}} |||
-| 2 | William Bradford, Mary Rowlandson | &nbsp; |
-| 3 | Benjamin Franklin, Washington Irving  {{< br >}}Annotation studio workshop. | &nbsp; |
-| 4 | Library research workshop | &nbsp; |
-| 5 | Essay 1 writing workshop/groups. Bring rough drafts to class. | Essay 1 due |
-| {{< td-colspan 3 >}}**Declarations of Independence**{{< /td-colspan >}} |||
-| 6 | Ralph Waldo Emerson, Henry David Thoreau | &nbsp; |
-| 7 | Henry David Thoreau | &nbsp; |
-| 8 | Revision workshop | &nbsp; |
-| 9 | Nathaniel Hawthorne | &nbsp; |
-| 10 | Frederick Douglass | &nbsp; |
-| 11 | Harriet Beecher Stowe, Harriet Jacobs | &nbsp; |
-| 12 | Herman Melville | &nbsp; |
-| 13 | Essay 2 writing workshop/groups. Bring rough drafts to class. | Essay 2 due |
-| 14 | Walt Whitman | &nbsp; |
-| 15 | Emily Dickinson | &nbsp; |
-| {{< td-colspan 3 >}}**Realism and Satire**{{< /td-colspan >}} |||
-| 16 | Samuel Clemens | &nbsp; |
-| 17 | Samuel Clemens (cont.) | &nbsp; |
-| 18 | Samuel Clemens (cont.) | &nbsp; |
-| 19 | Sarah Orne Jewett, Kate Chopin, Charlotte Perkins Gilman | &nbsp; |
-| 20 | Henry James, Edith Wharton | &nbsp; |
-| 21 | Essay 3 writing workshop/groups. Bring rough drafts to class. | Essay 3 due |
-| {{< td-colspan 3 >}}**Vision and Revision**{{< /td-colspan >}} |||
-| 22 | Claude McKay, Zora Neale Hurston, Langston Hughes, Countee Cullen, Richard Wright | &nbsp; |
-| 23 | \[Morrison\] pp. 4–87 | &nbsp; |
-| 24 | \[Morrison\] pp. 89–162 | &nbsp; |
-| 25 | \[Morrison\] pp. 165–229 | &nbsp; |
-| 26 | Conclusion | Essay 4 due 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Origins**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+William Bradford, Mary Rowlandson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Benjamin Franklin, Washington Irving  
+Annotation studio workshop.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Library research workshop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 writing workshop/groups. Bring rough drafts to class.
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Declarations of Independence**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Ralph Waldo Emerson, Henry David Thoreau
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Henry David Thoreau
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Revision workshop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Nathaniel Hawthorne
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Frederick Douglass
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Harriet Beecher Stowe, Harriet Jacobs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Herman Melville
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 writing workshop/groups. Bring rough drafts to class.
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Walt Whitman
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Emily Dickinson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Realism and Satire**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Samuel Clemens
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Samuel Clemens (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Samuel Clemens (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Orne Jewett, Kate Chopin, Charlotte Perkins Gilman
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Henry James, Edith Wharton
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 3 writing workshop/groups. Bring rough drafts to class.
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Vision and Revision**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Claude McKay, Zora Neale Hurston, Langston Hughes, Countee Cullen, Richard Wright
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+\[Morrison\] pp. 4–87
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+\[Morrison\] pp. 89–162
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+\[Morrison\] pp. 165–229
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading
 -------
 
 This course consists of both an oral component, which accounts for 25% of the grade, and a written component, which counts for 75%.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| In-class report | 10% |
-| Class attendance and participation | 15% |
-| Four 5-page essays | 60% |
-| One revision | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class report
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four 5-page essays
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One revision
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Important Things to Know
 ------------------------
